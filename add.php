@@ -23,6 +23,7 @@ if(isset($_GET["submit"])){
         <option value='female'>female</option>
         </select>
             <input type="submit" name="submit" value="submit">
+            <p>toto</p>
            </div>
         </form>
 </body>
