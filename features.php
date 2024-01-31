@@ -12,7 +12,7 @@ $_features=true;
 <body>
     <h1>features</h1>
     <p>features</p>
-    <p> i love me </p>
+    <p> i love myself </p>
     
    
 
