@@ -19,7 +19,9 @@ $_home=true;
             <th>prenom</th>
         </tr>
         <tr>
-            <th></th>
+            <th>12</th>
+            <th>anej</th>
+            <th>sana</th>
         </tr>
     </table>
    
