@@ -20,12 +20,11 @@ $_home=true;
         </tr>
         <tr>
             <th>12</th>
-            <th>anej</th>
+            <th>anejjar</th>
             <th>sana</th>
         </tr>
     </table>
    
-<!--commanataire
-  -->
+<!--commanataire -->
 </body>
 </html>
