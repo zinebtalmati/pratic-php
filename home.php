@@ -22,6 +22,8 @@ $_home=true;
             <th>12</th>
             <th>anej</th>
             <th>sana</th>
+
+            <!-- commantaire -->
         </tr>
     </table>
    
