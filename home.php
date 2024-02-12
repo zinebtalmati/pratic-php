@@ -22,6 +22,7 @@ $_home=true;
             <th>12</th>
             <th>anej</th>
             <th>sana</th>
+            <th>zineb talmati</th>
         </tr>
     </table>
    
